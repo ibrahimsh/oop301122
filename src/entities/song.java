@@ -10,4 +10,6 @@ public class song {
     private String  singerName;
     private double duration;
     private int numLikes;
+
+
 }

@@ -27,7 +27,7 @@ public class jUnitAnnotation {
     @Test
     public void addTest()
     {
-        list.add(5);
+       list.add(5);
         assertFalse(list.isEmpty());
         assertEquals(1,list.size());
     }
